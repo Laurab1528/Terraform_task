@@ -24,8 +24,8 @@ This project provisions a secure AWS infrastructure using Terraform. It creates:
 
 1. **Clone this repository and enter the directory:**
    ```bash
-   git clone <your-repo-url>
-   cd <project-directory>
+   git clone https://github.com/Laurab1528/Terraform_task.git
+   cd Terraform_task
    ```
 
 2. **Configure your AWS credentials:**
