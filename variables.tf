@@ -46,3 +46,5 @@ variable "ami" {
   default     = "ami-0953476d60561c955"
 }
 
+# Note: Security groups for ELB and EC2 are defined in main.tf
+
